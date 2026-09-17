@@ -1,0 +1,12 @@
+{
+  "text": "✅ Build succeeded for BrightMind (production) v3.0.1",
+  "client": "BrightMind",
+  "environment": "production",
+  "version": "3.0.1",
+  "build_id": "20260917102024-BrightMind",
+  "artifacts": {
+    "apk": "/home/claude/learnyst-pipeline/output/BrightMind_production_3.0.1/BrightMind-3.0.1-production.apk",
+    "aab": "/home/claude/learnyst-pipeline/output/BrightMind_production_3.0.1/BrightMind-3.0.1-production.aab"
+  },
+  "timestamp": "2026-09-17T10:20:25+00:00"
+}

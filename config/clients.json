@@ -1,0 +1,65 @@
+{
+  "clients": [
+    {
+      "name": "AcademyX",
+      "app_name": "AcademyX Learning",
+      "bundle_id": "com.learnyst.academyx",
+      "theme_color": "#FF5733",
+      "logo_path": "assets/logos/academyx.png",
+      "webhook_url": "https://hooks.slack.com/services/T000/B000/XXXXXXXXXXXXXXXXXXXXXXXX",
+      "environments": {
+        "production": {
+          "api_base_url": "https://api.academyx.learnyst.com"
+        },
+        "staging": {
+          "api_base_url": "https://staging-api.academyx.learnyst.com"
+        }
+      }
+    },
+    {
+      "name": "SkillForge",
+      "app_name": "SkillForge Academy",
+      "bundle_id": "com.learnyst.skillforge",
+      "theme_color": "#2E86DE",
+      "logo_path": "assets/logos/skillforge.png",
+      "webhook_url": "https://hooks.slack.com/services/T000/B001/YYYYYYYYYYYYYYYYYYYYYYYY",
+      "environments": {
+        "production": {
+          "api_base_url": "https://api.skillforge.learnyst.com"
+        },
+        "staging": {
+          "api_base_url": "https://staging-api.skillforge.learnyst.com"
+        }
+      }
+    },
+    {
+      "name": "BrightMind",
+      "app_name": "BrightMind Institute",
+      "bundle_id": "com.learnyst.brightmind",
+      "theme_color": "#8E44AD",
+      "logo_path": "assets/logos/brightmind.png",
+      "webhook_url": "https://hooks.slack.com/services/T000/B002/ZZZZZZZZZZZZZZZZZZZZZZZZ",
+      "environments": {
+        "production": {
+          "api_base_url": "https://api.brightmind.learnyst.com"
+        },
+        "staging": {
+          "api_base_url": "https://staging-api.brightmind.learnyst.com"
+        }
+      }
+    },
+    {
+      "name": "IncompleteClient",
+      "app_name": "Incomplete Client App",
+      "bundle_id": "",
+      "theme_color": "#000000",
+      "logo_path": "assets/logos/incomplete.png",
+      "webhook_url": "https://hooks.slack.com/services/T000/B003/WWWWWWWWWWWWWWWWWWWWWWWW",
+      "environments": {
+        "production": {
+          "api_base_url": "https://api.incomplete.learnyst.com"
+        }
+      }
+    }
+  ]
+}

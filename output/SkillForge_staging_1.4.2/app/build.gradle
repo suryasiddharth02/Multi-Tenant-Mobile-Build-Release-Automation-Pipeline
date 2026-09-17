@@ -1,0 +1,13 @@
+// Auto-generated Gradle config placeholder for the Learnyst white-label build pipeline
+android {
+    namespace "com.learnyst.skillforge"
+
+    defaultConfig {
+        applicationId "com.learnyst.skillforge"
+        versionName "1.4.2"
+        versionCode 10402
+    }
+}
+
+// Client branding assets
+ext.logoPath = "assets/logos/skillforge.png"

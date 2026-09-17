@@ -1,0 +1,12 @@
+{
+  "text": "✅ Build succeeded for AcademyX (production) v2.1.0",
+  "client": "AcademyX",
+  "environment": "production",
+  "version": "2.1.0",
+  "build_id": "20260917102022-AcademyX",
+  "artifacts": {
+    "apk": "/home/claude/learnyst-pipeline/output/AcademyX_production_2.1.0/AcademyX-2.1.0-production.apk",
+    "aab": "/home/claude/learnyst-pipeline/output/AcademyX_production_2.1.0/AcademyX-2.1.0-production.aab"
+  },
+  "timestamp": "2026-09-17T10:20:23+00:00"
+}

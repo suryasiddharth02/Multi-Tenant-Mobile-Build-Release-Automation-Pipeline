@@ -1,0 +1,12 @@
+{
+  "text": "✅ Build succeeded for SkillForge (staging) v1.4.2",
+  "client": "SkillForge",
+  "environment": "staging",
+  "version": "1.4.2",
+  "build_id": "20260917102023-SkillForge",
+  "artifacts": {
+    "apk": "/home/claude/learnyst-pipeline/output/SkillForge_staging_1.4.2/SkillForge-1.4.2-staging.apk",
+    "aab": "/home/claude/learnyst-pipeline/output/SkillForge_staging_1.4.2/SkillForge-1.4.2-staging.aab"
+  },
+  "timestamp": "2026-09-17T10:20:24+00:00"
+}

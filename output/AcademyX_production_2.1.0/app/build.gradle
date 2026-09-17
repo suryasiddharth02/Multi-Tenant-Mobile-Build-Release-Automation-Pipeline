@@ -1,0 +1,13 @@
+// Auto-generated Gradle config placeholder for the Learnyst white-label build pipeline
+android {
+    namespace "com.learnyst.academyx"
+
+    defaultConfig {
+        applicationId "com.learnyst.academyx"
+        versionName "2.1.0"
+        versionCode 20100
+    }
+}
+
+// Client branding assets
+ext.logoPath = "assets/logos/academyx.png"

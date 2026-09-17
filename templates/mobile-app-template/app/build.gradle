@@ -1,0 +1,13 @@
+// Auto-generated Gradle config placeholder for the Learnyst white-label build pipeline
+android {
+    namespace "__BUNDLE_ID__"
+
+    defaultConfig {
+        applicationId "__BUNDLE_ID__"
+        versionName "__VERSION__"
+        versionCode __VERSION_CODE__
+    }
+}
+
+// Client branding assets
+ext.logoPath = "__LOGO_PATH__"
